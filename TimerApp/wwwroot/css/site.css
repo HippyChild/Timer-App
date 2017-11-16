@@ -35,3 +35,10 @@ textarea {
         display: none;
     }
 }
+
+.loginBox{
+    width: 50%;
+    border: ridge;
+    border-width: 5px;
+    border-color: black;
+}

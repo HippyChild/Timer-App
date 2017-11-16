@@ -13,17 +13,13 @@ namespace TimerApp.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Home()
         {
-            ViewData["Message"] = "Your application description page.";
-
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult Schedule()
         {
-            ViewData["Message"] = "Your contact page.";
-
             return View();
         }
 
